@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sarthak Aggarwal</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakaggarwal19032001&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakaggarwal19032001" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakaggarwal19032001" alt="sarthakaggarwal19032001" /></a> </p>
-- 👨‍🎓 Currently Pursuing **B.Tech** in **Computer Science & Engineering** at **DIT University**, Dehradun.
+- 👨‍🎓 Currently Pursuing **B.Tech** in **Computer Science & Engineering** at **DIT University**, Dehradun.</br>
 - 🌱 I belong to **Queen of Hills, Mussoorie**.
 - 👀 **Interested** in gaining all those skills which are required to be a **Software Development Engineer(SDE)**.
 - 💞️ **Looking to collaborate with** such organsitaions and MNC's who are in search of **Tech Enthusiasts** and **Proffesional Software Developers**.
 - 📫 How to reach me **sarthakaggarwal19032001@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakaggarwal19032001&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakaggarwal19032001" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakaggarwal19032001" alt="sarthakaggarwal19032001" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthak-aggarwal-0183381b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-aggarwal-0183381b1" height="30" width="40" /></a>
