@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sarthak Aggarwal</h1>
-- 👨‍🎓 Currently Pursuing **B.Tech** in **Computer Science & Engineering** at **DIT University**, Dehradun.</br>
-- 💞️ I belong to **Queen of Hills, Mussoorie**.</br>
-- 👀 **Interested** in gaining all those skills which are required to be a **Software Development Engineer(SDE)**.</br>
-- 🌱**Looking to collaborate with** such organsitaions and MNC's who are in search of **Tech Enthusiasts** and **Professional Software Developers**.</br>
+<h3 align="center">Software Developer | Web Developer | Competitive Coder |</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geeknarendra&label=Profile%20views&color=0e75b6&style=flat" alt="geeknarendra" /> </p>
+<br>
+<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctN0xuCdPtEmy8cUD6z5c6-bID3A5oZI3Cw&usqp=CAU">
+
+
+- 👨‍🎓 Currently Pursuing **B.Tech** in **Computer Science & Engineering** at **DIT University**, Dehradun.
+
+- 💞️ I belong to **Queen of Hills, Mussoorie**.
+
+- 👀 **Interested** in gaining all those skills which are required to be a **Software Development Engineer(SDE)**.
+
+- 🌱**Looking to collaborate with** such organsitaions and MNC's who are in search of **Tech Enthusiasts** and **Professional Software Developers**.
+
 - 📫 How to reach me **sarthakaggarwal19032001@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakaggarwal19032001&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakaggarwal19032001" /> </p>
