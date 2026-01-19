@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sarthak Aggarwal</h1>
-<h3 align="center">Software Developer | Web Developer  </h3>
+<h3 align="center">Software Developer Engineer II | Web Developer  </h3>
 <br>
 <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctN0xuCdPtEmy8cUD6z5c6-bID3A5oZI3Cw&usqp=CAU">
 
 
-- 👨‍🎓 Currently Pursuing **B.Tech** in **Computer Science & Engineering** at **DIT University**, Dehradun.
+- 👨‍🎓 Completed my **B.Tech** in **Computer Science & Engineering** from **DIT University**, Dehradun.
 
 - 💞️ I belong to **Queen of Hills, Mussoorie**.
 
-- 👀 **Interested** in gaining all those skills which are required to be a **Software Development Engineer(SDE)**.
+- 👀 **Experience** in allmost all those skills which are required to be an competitive **Software Development Engineer(SDE)**.
 
 - 🌱**Looking to collaborate with** such organsitaions and MNC's who are in search of **Tech Enthusiasts** and **Professional Software Developers**.
 
